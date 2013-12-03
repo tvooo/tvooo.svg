@@ -1,6 +1,6 @@
-<svg height="50" version="1.1" width="150" xmlns="http://www.w3.org/2000/svg" style="overflow: hidden; position: relative;" id="tvooo-logo">
-    <circle cx="76" cy="30" r="10" fill="none" stroke="#444444" stroke-width="3" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></circle>
-    <circle cx="86" cy="30" r="10" fill="none" stroke="#444444" stroke-width="3" stroke-opacity="0" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke-opacity: 0;"></circle>
-    <circle cx="86" cy="30" r="10" fill="none" stroke="#444444" stroke-width="3" stroke-opacity="0" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke-opacity: 0;"></circle>
-    <path fill="none" stroke="#444444" d="M20,10L20,35C20.2,39,24,39.8,25,40M10,20L32,20C44,20.4,46,39.6,52,40,58,39.6,60,20.4,60,20.4" stroke-width="3" stroke-linecap="round" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke-linecap: round;"></path>
+<svg xmlns="http://www.w3.org/2000/svg" height="33" version="1.1" width="132" id="tvooo-logo">
+    <circle cx="67.5" cy="21.5" r="10" />
+    <circle class="circle-moving circle-moving-1" cx="67.5" cy="21.5" r="10" />
+    <circle class="circle-moving circle-moving-2" cx="67.5" cy="21.5" r="10" />
+    <path d="m 11.5,1.5 0,25 c 0.2,4 4,4.8 5,5 m -15,-20 22,0 c 12,0.4 14,19.6 20,20 6,-0.4 8,-19.6 8,-19.6" />
 </svg>
